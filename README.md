@@ -112,8 +112,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/nted-report-bot.git
-cd nted-report-bot
+git clone https://github.com/Minato-Dev-Hokage/Base-report-Telegram.git
+cd Base-report-Telegram
 
 # Install dependencies
 npm install
